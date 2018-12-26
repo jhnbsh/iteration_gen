@@ -8,8 +8,8 @@
  Example: 
  If the input dictionary is: Apple, Banana, Orange, and the number of iterations is chosen as 4, the output will be:
  
-AppleAppleAppleApple⋅⋅
-AppleAppleAppleBanana
+AppleAppleAppleApple.  
+AppleAppleAppleBanana.  
 AppleAppleAppleOrange
 AppleAppleBananaApple
 AppleAppleBananaBanana
