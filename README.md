@@ -30,25 +30,14 @@ AppleAppleOrangeBanana.... (continued)
    Python v2 is needed to execute the script.  The following provides basic directions
    on installing Python on your respective operating system.
 
-   Windows users: As of Windows 8.1 you will need to install Python v2, then dnspython.
+   Windows users: As of Windows 8.1 you will need to install Python v2.
    1. Download and install python from https://www.python.org/downloads/ . Note: Choose any version of Python that starts with "2", not "3".
    1. Select all default settings, except for on the 'Customize Python'
    screen click "Add python.exe to Path" and choose "Will be installed to local hard-drive".
-   1. Download dnspython from https://github.com/rthalley/dnspython
-   1. Create a folder in C: name 'dnspython' and extract the contents of the downloaded dnspython archive to C:\dnspython.
-   1. Click Start, type 'cmd', right click 'Command Prompt' and choose 'Run as administrator'
-   1. Run the following commands:
 
-    cd c:\dnspython
-    python setup.py install
+   MacOS users:  None, python should be natively installed.
 
-   MacOS users: As of MacOs Majave you will need to first install pip, then dnspython.
-   From a Terminal window type the following:
-   
-    sudo easy_install pip
-    sudo pip install dnspython	
-		
-   Linux users:  None, both python and dns.resolver should be natively installed.
+   Linux users:  None, python should be natively installed.
 
 # Execution instructions
   Place your dictionary (input.txt) in the same directory as iteration_gen.py.  
