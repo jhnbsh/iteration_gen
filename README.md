@@ -10,11 +10,11 @@
  
 AppleAppleAppleApple.  
 AppleAppleAppleBanana.  
-AppleAppleAppleOrange
-AppleAppleBananaApple
-AppleAppleBananaBanana
-AppleAppleBananaOrange 
-AppleAppleOrangeApple 
+AppleAppleAppleOrange.  
+AppleAppleBananaApple.  
+AppleAppleBananaBanana.  
+AppleAppleBananaOrange  
+AppleAppleOrangeApple.   
 AppleAppleOrangeBanana.... (continued) 
 
 # Why is this script needed?:
