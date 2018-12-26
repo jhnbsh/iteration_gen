@@ -1,7 +1,7 @@
 # iteration_gen v1.0 Help File
 
 # Description
- This python script generates all possible combinations of words from a provided
+ This python script generates combinations of words from a provided
  dictionary for use in password cracking.  The input is a dictionary of words (see input.txt)
  and the output is a listing of all combinations based on the user supplied number of iterations. 
  
