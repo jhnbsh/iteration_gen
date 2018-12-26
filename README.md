@@ -59,5 +59,10 @@ AppleAppleOrangeBanana.... (continued)
 # Note on filesize and RAM: 
 As of version 1.0 this script works only with small dictionaries and iterations.  If too large a dictionary is used, or
 too high an iteration value, your computer will likely exhaust all of its RAM and the program will crash.
+
+# Planned updates:
+* Provide user control over printing sub-iterations.
+* Provide estimation of final filesize.
+* Provide estimation on required RAM to compute final dictionary.
     
     
