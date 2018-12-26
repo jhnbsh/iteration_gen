@@ -1,12 +1,21 @@
 # iteration_gen v1.0 Help File
 
-Creates a dictionary of all possible combinations of words for password cracking.
-
 # Description
-     This python script generates all possible combinations of words from a provided
+ This python script generates all possible combinations of words from a provided
  dictionary for use in password cracking.  The input is a dictionary of words (see input.txt)
  and the output is a listing of all combinations based on the user supplied number of iterations. 
- Note: if too large a dictionary is used your computer will likely exhaust all RAM and this program will crash.
+ 
+ Example: 
+ If the input dictionary is: Apple, Banana, Orange, and the number of iterations is chosen as 4, the output will be:
+ 
+AppleAppleAppleApple
+AppleAppleAppleBanana
+AppleAppleAppleOrange
+AppleAppleBananaApple
+AppleAppleBananaBanana
+AppleAppleBananaOrange
+AppleAppleOrangeApple
+AppleAppleOrangeBanana.... (continued)
 
 # Why is this script needed?:
   This program creates a password cracking dictionary (of user defined length / iterations) to defeat 
@@ -46,5 +55,9 @@ Creates a dictionary of all possible combinations of words for password cracking
   Run iteration_gen from a command prompt or terminal window with:
   
     python iteration_gen.py
+    
+# Note on filesize and RAM: 
+As of version 1.0 this script works only with small dictionaries and iterations.  If too large a dictionary is used, or
+too high an iteration value, your computer will likely exhaust all of its RAM and the program will crash.
     
     
