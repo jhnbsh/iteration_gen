@@ -2,11 +2,11 @@
 
 Creates a dictionary of all possible combinations of words for password cracking.
 
-#Description
-#     This python script generates all possible combinations of words from a provided
-# dictionary for use in password cracking.  The input is a dictionary of words (see input.txt)
-# and the output is a listing of all combinations based on the user supplied number of iterations. 
-# Note: if too large a dictionary is used your computer will likely exhaust all RAM and this program will crash.
+# Description
+     This python script generates all possible combinations of words from a provided
+ dictionary for use in password cracking.  The input is a dictionary of words (see input.txt)
+ and the output is a listing of all combinations based on the user supplied number of iterations. 
+ Note: if too large a dictionary is used your computer will likely exhaust all RAM and this program will crash.
 
 # Why is this script needed?:
   This program creates a password cracking dictionary (of user defined length / iterations) to defeat 
