@@ -8,20 +8,13 @@
  Example: 
  If the input dictionary is: Apple, Banana, Orange, and the number of iterations is chosen as 4, the output will be:
  
-AppleAppleAppleApple
-
+AppleAppleAppleApple⋅⋅
 AppleAppleAppleBanana
-
 AppleAppleAppleOrange
-
 AppleAppleBananaApple
-
 AppleAppleBananaBanana
-
 AppleAppleBananaOrange 
-
 AppleAppleOrangeApple 
-
 AppleAppleOrangeBanana.... (continued) 
 
 # Why is this script needed?:
