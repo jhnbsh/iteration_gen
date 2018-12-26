@@ -64,5 +64,6 @@ too high an iteration value, your computer will likely exhaust all of its RAM an
 * Provide user control over printing sub-iterations.
 * Provide estimation of final filesize.
 * Provide estimation on required RAM to compute final dictionary.
+* Memory management to calculate larger dictionaries and iterations.
     
     
